@@ -5,6 +5,8 @@ Enter the pokemon you want an image of in the textfield, and then press the "get
 If an invalid name is entered, you will be shown an error message as well as shown a fun image!
 Enjoy :)
 
+Heres where you can find the API: https://pokeapi.co/
+
 ### `npm start`
 
 Runs the app in the development mode.\
