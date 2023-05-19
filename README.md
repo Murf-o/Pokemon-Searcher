@@ -1,3 +1,6 @@
+Netlify LINK: https://murfo-pokemon-searcher.netlify.app/
+If you want to quickly check this project out, just click the link above! ^
+
 Web application built using React.js.
 Utilizes the Pokemon API to return a sprite of the pokemon requested by the user.
 Enter the pokemon you want an image of in the textfield, and then press the "get Pokemon" button!
